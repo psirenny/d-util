@@ -1,7 +1,7 @@
 Derby Util
 ==========
 
-A [Derby JS](http://derbyjs.com) component for exposing derby *util* properties such as `isProduction` and `isServer`.
+A [Derby JS](http://derbyjs.com) component for exposing derby **util** properties such as `isProduction` and `isServer`.
 
 Installation
 ------------
